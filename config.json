@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6285717376113@s.whatsapp.net"],
+  "ownerName": ["RyanMods"],
+  "botName": "RyanBotz-MD",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/ryanmods28",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/firdastiillearning",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "wait": "Loading Sabar Wibu..⏳",
+  "error": {
+    "Iv": "Link yang kamu berikan tidak valid",
+    "api": "Maaf terjadi kesalahan"
+  },
+  "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+  "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+  "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+  "BotAdmin": "Bot nya bukan admin kocak",
+  "OnlyOwner": "Perintah ini khusus owner!",
+  "OnlyPrem": "Perintah ini khusus member premium"
+}
